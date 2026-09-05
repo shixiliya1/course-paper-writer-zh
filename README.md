@@ -1,4 +1,4 @@
-# course-paper-writer-zh
+# course-paper-writer-zh 水课论文写作skill
 
 面向中文大学通识课、选修课及非学位性质结课论文的 Codex Skill。
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文课程结课论文"
+  short_description: "面向中文大学课程论文的选题、检索、写作、核验与排版流程"
+  default_prompt: "使用 $course-paper-writer-zh 帮我完成这门课的结课论文。"
